@@ -1,0 +1,34 @@
+<mxfile host="Electron" modified="2023-07-10T18:03:10.265Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="nR-zlneqk4-nMGyfZHBJ" version="21.1.2" type="device">
+  <diagram name="Страница 1" id="niAYOJOE_CXo3JM1wNcf">
+    <mxGraphModel dx="996" dy="877" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="DK2YPfpG4i6BNz3SZolD-74" value="Sceme Legend" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;strokeColor=#000000;fontColor=#000000;" parent="1" vertex="1">
+          <mxGeometry x="1120" y="800" width="140" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="DK2YPfpG4i6BNz3SZolD-75" value="BG Colours:&lt;br&gt;Yellow - not sure&lt;br&gt;Green - add later&lt;br&gt;Blue - long and/or abstract commentary" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="DK2YPfpG4i6BNz3SZolD-74" vertex="1">
+          <mxGeometry y="30" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="DK2YPfpG4i6BNz3SZolD-76" value="Lines:&lt;br&gt;Straight - contains&lt;br&gt;Punctued - inherits&lt;br&gt;Arrow - points from commentary to commented idea" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="DK2YPfpG4i6BNz3SZolD-74" vertex="1">
+          <mxGeometry y="110" width="140" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="DK2YPfpG4i6BNz3SZolD-77" value="Font Colours:&lt;br&gt;Black - normal text&lt;br&gt;Red - short and/or specific questioning commentary&lt;br&gt;Green - short and/or specific explanatory commentary" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontColor=#000000;" parent="DK2YPfpG4i6BNz3SZolD-74" vertex="1">
+          <mxGeometry y="240" width="140" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="ElLl6hXLwOEeLgYe93lb-1" value="PlayerBase&lt;br&gt;abstract" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="2180" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="ElLl6hXLwOEeLgYe93lb-2" value="Item 1" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ElLl6hXLwOEeLgYe93lb-1">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElLl6hXLwOEeLgYe93lb-3" value="Item 2" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ElLl6hXLwOEeLgYe93lb-1">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ElLl6hXLwOEeLgYe93lb-4" value="Item 3" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="ElLl6hXLwOEeLgYe93lb-1">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
